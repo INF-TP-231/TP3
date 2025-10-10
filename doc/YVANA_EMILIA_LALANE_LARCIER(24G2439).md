@@ -31,7 +31,7 @@ Il comprend deux fonctionnalités principales :
 Affiche la largeur et la hauteur d’une image PPM donnée en paramètre.
 
 #### 🔹 Prototype
-```c
+
 void sizePPM(const char *filename);
 Fonctionnement
 
