@@ -79,7 +79,7 @@ ppmviewer/
 │
 ├── Makefile                    # Fichier de compilation
 ├── README.md                   # Cette documentation
-└── doc                         # Dossier contenant les README personnalisés 
+└── doc/                         # Dossier contenant les README personnalisés 
 ```
 
 ---
@@ -129,20 +129,6 @@ Application en C pour manipuler des images au format PPM (P3). Interface en lign
 
 Fournir des outils simples pour analyser et transformer des images PPM : taille, dominante, niveaux de gris, négatif, découpage et filtre médian.
 
-<<<<<<< HEAD
-=======
-### Équipe et répartition des tâches
-
-| Bloc | Membre (matricule) | Fichiers | Responsabilité |
-|------|--------------------|----------|----------------|
-| Bloc 1 |ASSOGO MANGA GEORGES MATHURIN (24G2280)| `ppm_io.c`, `ppm_io.h` | Lecture/Écriture fichiers PPM, gestion mémoire |
-| Bloc 2 |NSANGOU NKANJONE MANUEL DECENCY  | `command_parser.c`, `command_parser.h`, `main.c` | Parsing de commandes, boucle principale |
-| Bloc 3 | YVANA EMILIA LALANE LARCIER (24G2439) | `operations.c`, `operations.h` | Commandes `size` et `dom` (dominante) |
-| Bloc 4 | AKANA SIGNING JOSIAS AARON (24H2358) | `filters.c`, `filters.h` | Commandes `gris` (niveaux de gris) et `neg` (négatif) |
-| Bloc 5 | KAMENI FRANCK ARTHUR (24G2149) | `crop.c`, `crop.h` | Commande `cut` (découpage d'images) |
-| Bloc 6 | NGNINTEDEM NGUIMTSOP Roèl Parfait (24H2418) | `median.c`, `median.h` | Commande `fil` (filtre médian) |
-
->>>>>>> 5456253 (Commit demandé : mise à jour README, ajout docs et fichiers personnels)
 ### Prérequis
 
 - gcc (C99)
