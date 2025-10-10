@@ -24,7 +24,7 @@
 
 | **Bloc** | **Membre** | **Fichiers** | **Responsabilité** |
 |----------|------------|--------------|-------------------|
-| **Bloc 1** | [Nom Personne 1] | `ppm_io.c`, `ppm_io.h` | Lecture/Écriture fichiers PPM, gestion mémoire |
+| **Bloc 1** | [] | `ppm_io.c`, `ppm_io.h` | Lecture/Écriture fichiers PPM, gestion mémoire |
 | **Bloc 2** | [Nom Personne 2] | `command_parser.c`, `command_parser.h`, `main.c` | Parsing de commandes, boucle principale |
 | **Bloc 3** | [Nom Personne 3] | `operations.c`, `operations.h` | Commandes `size` et `dom` (dominante) |
 | **Bloc 4** | [Nom Personne 4] | `filters.c`, `filters.h` | Commandes `gris` (niveaux de gris) et `neg` (négatif) |
@@ -130,17 +130,6 @@ Application en C pour manipuler des images au format PPM (P3). Interface en lign
 ### Objectif
 
 Fournir des outils simples pour analyser et transformer des images PPM : taille, dominante, niveaux de gris, négatif, découpage et filtre médian.
-
-### Équipe et répartition des tâches
-
-| Bloc | Membre (matricule) | Fichiers | Responsabilité |
-|------|--------------------|----------|----------------|
-| Bloc 1 | ASSOGO MANGA GEORGES MATHURIN (24G2280) | `ppm_io.c`, `ppm_io.h` | Lecture/Écriture fichiers PPM, gestion mémoire |
-| Bloc 2 | Nsangou Nkanjone Manuel Decency (24H2072) | `command_parser.c`, `command_parser.h`, `main.c` | Parsing de commandes, boucle principale |
-| Bloc 3 | YVANA EMILIA LALANE LARCIER (24G2439) | `operations.c`, `operations.h` | Commandes `size` et `dom` (dominante) |
-| Bloc 4 | AKANA SIGNING JOSIAS AARON (24H2358) | `filters.c`, `filters.h` | Commandes `gris` (niveaux de gris) et `neg` (négatif) |
-| Bloc 5 | KAMENI FRANCK ARTHUR (24G2149) | `crop.c`, `crop.h` | Commande `cut` (découpage d'images) |
-| Bloc 6 | NGNINTEDEM NGUIMTSOP Roèl Parfait (24H2418) | `median.c`, `median.h` | Commande `fil` (filtre médian) |
 
 ### Prérequis
 
