@@ -53,7 +53,7 @@ R = G = B = gris
 `<nom>_gris.ppm`
 
 **Exemple :**
-```bash
+
 ppmviewer > gris test.ppm
 ✅ Image test_gris.ppm générée avec succès !
 
