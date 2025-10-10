@@ -24,12 +24,12 @@
 
 | **Bloc** | **Membre** | **Fichiers** | **Responsabilité** |
 |----------|------------|--------------|-------------------|
-| **Bloc 1** | [] | `ppm_io.c`, `ppm_io.h` | Lecture/Écriture fichiers PPM, gestion mémoire |
-| **Bloc 2** | [Nom Personne 2] | `command_parser.c`, `command_parser.h`, `main.c` | Parsing de commandes, boucle principale |
-| **Bloc 3** | [Nom Personne 3] | `operations.c`, `operations.h` | Commandes `size` et `dom` (dominante) |
-| **Bloc 4** | [Nom Personne 4] | `filters.c`, `filters.h` | Commandes `gris` (niveaux de gris) et `neg` (négatif) |
-| **Bloc 5** | [Nom Personne 5] | `crop.c`, `crop.h` | Commande `cut` (découpage d'images) |
-| **Bloc 6** | [Nom Personne 6] | `median.c`, `median.h` | Commande `fil` (filtre médian) |
+| **Bloc 1** | [Asogo Manga Geoges Marthurin] | `ppm_io.c`, `ppm_io.h` | Lecture/Écriture fichiers PPM, gestion mémoire |
+| **Bloc 2** | [Nsangou Nkanjone Manuel Decency] | `command_parser.c`, `command_parser.h`, `main.c` | Parsing de commandes, boucle principale |
+| **Bloc 3** | [Yvana Emilia Lalane Larcier] | `operations.c`, `operations.h` | Commandes `size` et `dom` (dominante) |
+| **Bloc 4** | [Akana Signing Josias Aaron] | `filters.c`, `filters.h` | Commandes `gris` (niveaux de gris) et `neg` (négatif) |
+| **Bloc 5** | [Kameni Franck Arthur] | `crop.c`, `crop.h` | Commande `cut` (découpage d'images) |
+| **Bloc 6** | [Ngnintedem Nguimtsop Roel Parfait] | `median.c`, `median.h` | Commande `fil` (filtre médian) |
 
 ---
 
