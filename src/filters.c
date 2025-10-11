@@ -3,7 +3,7 @@
  * BLOC 4 : Implémentation des filtres de transformation
  * ============================================================================
  * Fichier : filters.c
- * Auteur  : [Nom Personne 4]
+ * Auteur  : Akana Signing Josias Aaron
  * Date    : Octobre 2025
  * ============================================================================
  */
