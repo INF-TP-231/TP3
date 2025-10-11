@@ -3,7 +3,7 @@
  * BLOC 2 : Point d'entrée principal de l'application
  * ============================================================================
  * Fichier : main.c
- * Auteur  : [Nom Personne 2]
+ * Auteur  : Nsangou Nkanjone Manuel Decency
  * Date    : Octobre 2025
  * 
  * Description :
