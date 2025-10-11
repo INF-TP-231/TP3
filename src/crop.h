@@ -3,7 +3,7 @@
  * BLOC 5 : Découpage d'images
  * ============================================================================
  * Fichier : crop.h
- * Auteur  : [Nom Personne 5]
+ * Auteur  : Kameni Franck Arthur
  * Date    : Octobre 2025
  * 
  * Description :
