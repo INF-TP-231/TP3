@@ -3,7 +3,7 @@
  * BLOC 6 : Filtre médian pour réduction de bruit
  * ============================================================================
  * Fichier : median.h
- * Auteur  : [Nom Personne 6]
+ * Auteur  : Ngnintedem Nguimtsop Roèl Parfait
  * Date    : Octobre 2025
  * 
  * Description :
