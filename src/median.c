@@ -3,7 +3,7 @@
  * BLOC 6 : Implémentation du filtre médian
  * ============================================================================
  * Fichier : median.c
- * Auteur  : [Nom Personne 6]
+ * Auteur  : Ngnintedem Nguimtsop Roèl Parfait
  * Date    : Octobre 2025
  * ============================================================================
  */
