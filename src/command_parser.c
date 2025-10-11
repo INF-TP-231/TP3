@@ -3,7 +3,7 @@
  * BLOC 2 : Implémentation du parseur de commandes
  * ============================================================================
  * Fichier : command_parser.c
- * Auteur  : [Nom Personne 2]
+ * Auteur  : Nsangou Nkanjone Manuel Decency
  * Date    : Octobre 2025
  * ============================================================================
  */
