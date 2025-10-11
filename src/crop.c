@@ -3,7 +3,7 @@
  * BLOC 5 : Implémentation du découpage d'images
  * ============================================================================
  * Fichier : crop.c
- * Auteur  : [Nom Personne 5]
+ * Auteur  : Kameni Franck Arthur
  * Date    : Octobre 2025
  * ============================================================================
  */
