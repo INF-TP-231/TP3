@@ -3,7 +3,7 @@
  * BLOC 1 : Lecture et Écriture de fichiers PPM
  * ============================================================================
  * Fichier : ppm_io.h
- * Auteur  : [Nom Personne 1]
+ * Auteur  : Assogo Manga Georges Mathurin
  * Date    : Octobre 2025
  * 
  * Description :
