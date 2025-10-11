@@ -3,7 +3,7 @@
  * BLOC 4 : Filtres de transformation d'images (Niveaux de gris et Négatif)
  * ============================================================================
  * Fichier : filters.h
- * Auteur  : [Nom Personne 4]
+ * Auteur  : Akana Signing Josias Aaron
  * Date    : Octobre 2025
  * 
  * Description :
