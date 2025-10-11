@@ -3,7 +3,7 @@
  * BLOC 3 : Implémentation des opérations dominante et size
  * ============================================================================
  * Fichier : operations.c
- * Auteur  : [Nom Personne 3]
+ * Auteur  : Yvana Emilia Lalane Larcier
  * Date    : Octobre 2025
  * ============================================================================
  */
