@@ -14,7 +14,7 @@
 | **Département** | Informatique |
 | **Superviseur** | **Prof. MELATAGIA** |
 | **Année Académique** | 2025-2026 |
-| **Date de Soumission** | Vendredi 10 Octobre 2025, 20H00 |
+| **Date de Soumission** | Vendredi 10 Octobre 2025 |
 
 ---
 
