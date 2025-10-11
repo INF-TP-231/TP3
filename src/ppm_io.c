@@ -3,7 +3,7 @@
  * BLOC 1 : Implémentation des fonctions de lecture/écriture PPM
  * ============================================================================
  * Fichier : ppm_io.c
- * Auteur  : [Nom Personne 1]
+ * Auteur  : Assogo Manga Georges Mathurin
  * Date    : Octobre 2025
  * ============================================================================
  */
