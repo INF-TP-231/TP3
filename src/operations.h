@@ -3,7 +3,7 @@
  * BLOC 3 : Opérations sur les dominantes et affichage de taille
  * ============================================================================
  * Fichier : operations.h
- * Auteur  : [Nom Personne 3]
+ * Auteur  : Yvana Emilia Lalane Larcier 
  * Date    : Octobre 2025
  * 
  * Description :
